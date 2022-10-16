@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @MrStnr21
+- 👋 Hi, I’m Yaroslav.
 - 👀 I’m interested in Frontend dev.
-- 🌱 I’m currently learning Front and from 0.
-- 💞️ I’m looking to collaborate on Travis Scott.
+- 🌱 I’m currently learning Frontend from 0.
 - 📫 How to reach me https://t.me/MrStnr21
