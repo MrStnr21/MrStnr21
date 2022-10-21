@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Yaroslav.
 #### I am junior Frontend developer.
-![I am junior Frontend developer.]
 
 I am 27 years old. Born and raised in Siberia, in the city of Nizhnevartovsk. I have been living in Moscow since I was 18. My hobbies are cars, games, travel and food.  
 
