@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yaroslav</h1>
-<h3 align="center">Junior frontend developer from Moscow</h3>
+<h1 align="center">Hi, I'm Yaroslav!</h1>
+<h3 align="center">Frontend developer from Moscow</h3>
 
 - 🔭 I’m currently working on ["Stellar Burger"](https://github.com/MrStnr21/react-burger)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrStnr21?tab=repositories](https://github.com/MrStnr21?tab=repositories)
 
-- 💬 Ask me about **React, JS, Sass, HTML+CSS, Webpack, Api, Git, OOP**
+- 💬 Ask me about **React + Redux, JS, Sass, HTML+CSS, Webpack, Api, Git, OOP**
 
 - 📫 How to reach me **MrStnr21@yandex.ru**
 
