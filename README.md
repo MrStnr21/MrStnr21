@@ -54,16 +54,19 @@
   </a> 
    </p>
 </div>
+
+<div>
+  <h3 align="left">Задачки:</h3>
+  <img src="https://www.codewars.com/users/MrStnr21/badges/large"/>
+</div>
    
 <div>
   <h3 align="left">Статистика:</h3>
    <div align="center" >
-     <img height="193px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrStnr21&theme=cobalt" />
-     <img height="193px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrStnr21&theme=cobalt" />
-     <img height="193px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrStnr21&theme=cobalt"/>
-     <img height="190px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrStnr21&theme=cobalt"/>
-     <img height="190px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrStnr21&theme=cobalt&utcOffset=8"/>
-     <img src="https://www.codewars.com/users/MrStnr21/badges/large"/>
+     <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrStnr21&theme=cobalt" />
+     <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrStnr21&theme=cobalt" />
+     <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrStnr21&theme=cobalt"/>
+     <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrStnr21&theme=cobalt"/>
    </div>
 </div>
 
