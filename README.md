@@ -14,7 +14,7 @@
 
 🖥 Мои проекты здесь [👉 проекты 👈](https://github.com/MrStnr21?tab=repositories)
 
-📄 А мое резюме вот здесь [👉 резюме 👈](https://career.habr.com/mrstnr21)
+📄 А мое резюме вот здесь [👉 резюме 👈](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fb694c8c-a76c-469c-9ae9-fa2837086607/%D0%9F%D0%BE%D1%82%D1%80%D0%B0%D0%BF%D0%B5%D0%BB%D1%8E%D0%BA_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_Frontend.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230322%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230322T113747Z&X-Amz-Expires=86400&X-Amz-Signature=e8ab2f9f63eae3d032c1693482506b27f51baf8f6247b78715f5681b4608463e&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22%25D0%259F%25D0%25BE%25D1%2582%25D1%2580%25D0%25B0%25D0%25BF%25D0%25B5%25D0%25BB%25D1%258E%25D0%25BA_%25D0%25AF%25D1%2580%25D0%25BE%25D1%2581%25D0%25BB%25D0%25B0%25D0%25B2_%25D0%25A0%25D0%25B5%25D0%25B7%25D1%258E%25D0%25BC%25D0%25B5_Frontend.pdf%22&x-id=GetObject)
 
 <div>
   <h3 align="left">Как со мной связаться?</h3>
