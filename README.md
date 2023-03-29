@@ -26,18 +26,38 @@
 </div>
 
 <div>
-<h3 align="left">Мой стек:</h3>
-<p align="left"> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts,react,redux,js,webpack,sass,css,html" alt="skills"/>
-  </a>
-   </p>
-</div>
-
-<div>
-  <h3 align="left">Задачки:</h3>
-  <img src="https://www.codewars.com/users/MrStnr21/badges/large"/>
-</div>
+      <h3 align="left">Мой стек:</h3>
+      <p align="left">
+        <a
+          href="https://www.typescriptlang.org/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img src="https://skillicons.dev/icons?i=ts" alt="skills" />
+        </a>
+        <a href="https://ru.reactjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=react" alt="skills" />
+        </a>
+        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=redux" alt="skills" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=js" alt="skills" />
+        </a>
+        <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=webpack" alt="skills" />
+        </a>
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=sass" alt="skills" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=css" alt="skills" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=html" alt="skills" />
+        </a>
+      </p>
+    </div>
    
 <div>
   <h3 align="left">Статистика:</h3>
