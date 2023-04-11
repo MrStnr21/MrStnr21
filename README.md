@@ -14,7 +14,7 @@
 
 🖥 Мои проекты здесь [👉 проекты 👈](https://github.com/MrStnr21?tab=repositories)
 
-📄 А мое резюме вот здесь [👉 резюме 👈](https://file.notion.so/f/s/fb694c8c-a76c-469c-9ae9-fa2837086607/%D0%9F%D0%BE%D1%82%D1%80%D0%B0%D0%BF%D0%B5%D0%BB%D1%8E%D0%BA_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_Frontend.pdf?id=a8080dbf-4bdd-4bbd-91e2-914f7c4b2cf1&table=block&spaceId=05bc8e99-e21d-4ba2-a67c-3fedcacfff29&expirationTimestamp=1681205869309&signature=MGQVNS767aASQ6BUm9h6o2_luQU9quyrsk5jbCusC1M&downloadName=%D0%9F%D0%BE%D1%82%D1%80%D0%B0%D0%BF%D0%B5%D0%BB%D1%8E%D0%BA_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_Frontend.pdf)
+📄 А мое резюме вот здесь [👉 резюме 👈](https://www.linkedin.com/in/yaroslav-potrapelyuk-012126257/overlay/1635522644077/single-media-viewer/?profileId=ACoAAD8zRo4BqEOC7nFysA2QKhrCsBH6ZHpuG-4)
 
 <div>
   <h3 align="left">Как со мной связаться?</h3>
