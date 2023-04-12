@@ -14,7 +14,7 @@
 
 🖥 Мои проекты здесь [👉 проекты 👈](https://github.com/MrStnr21?tab=repositories)
 
-📄 А мое резюме вот здесь [👉 резюме 👈](https://www.linkedin.com/in/yaroslav-potrapelyuk-012126257/overlay/1635522644077/single-media-viewer/?profileId=ACoAAD8zRo4BqEOC7nFysA2QKhrCsBH6ZHpuG-4)
+📄 А мое резюме вот здесь [👉 резюме 👈](https://drive.google.com/file/d/1BUkmkKzPtUV52EbWJLZS52kW6RwDMiZM/view?usp=sharing)
 
 <div>
   <h3 align="left">Как со мной связаться?</h3>
@@ -22,6 +22,7 @@
   <a href="https://instagram.com/mrstnr21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yp21untd" height="48" width="48" /></a>
     <a href="https://t.me/MrStnr21" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349527/telegram.svg" alt="yp21untd" height="48" width="48" /></a>
     <a href="https://wa.clck.bar/79151474566" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349563/whatsapp.svg" alt="yp21untd" height="48" width="48" /></a>
+    <a href="https://linkedin.com/in/mrstnr21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrstnr21" height="30" width="40" /></a>
   </p>
 </div>
 
