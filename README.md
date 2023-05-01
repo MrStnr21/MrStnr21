@@ -59,6 +59,13 @@
         </a>
       </p>
     </div>
+    
+<div>
+  <h3 align="left">CodeWars:</h3>
+  <a href="https://www.codewars.com/users/MrStnr21" target="_blank" rel="noreferrer">
+    <img width="33%" src="https://www.codewars.com/users/MrStnr21/badges/large" alt='codewars'/>
+  </a>
+</div>
    
 <div>
   <h3 align="left">Статистика:</h3>
