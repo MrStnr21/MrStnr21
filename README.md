@@ -22,7 +22,7 @@
   <a href="https://instagram.com/mrstnr21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yp21untd" height="48" width="48" /></a>
     <a href="https://t.me/MrStnr21" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349527/telegram.svg" alt="yp21untd" height="48" width="48" /></a>
     <a href="https://wa.clck.bar/79151474566" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349563/whatsapp.svg" alt="yp21untd" height="48" width="48" /></a>
-    <a href="https://linkedin.com/in/mrstnr21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrstnr21" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/yaroslavp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrstnr21" height="30" width="40" /></a>
   </p>
 </div>
 
