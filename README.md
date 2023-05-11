@@ -72,6 +72,7 @@
   </p>
 </div>
 
+
 <div>
   <h3 align="left">Статистика:</h3>
    <div align="center" >
