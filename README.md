@@ -61,12 +61,17 @@
     </div>
     
 <div>
-  <h3 align="left">CodeWars:</h3>
+  <p align="left">
+  <h3 align="left">CodeWars/LeetCode:</h3>
   <a href="https://www.codewars.com/users/MrStnr21" target="_blank" rel="noreferrer">
-    <img width="40%" src="https://www.codewars.com/users/MrStnr21/badges/large" alt='codewars'/>
+    <img width="36%" src="https://github.r2v.ch/codewars?user=MrStnr21&stroke=%23BB432C" alt='codewars'/>
   </a>
+  <a href="https://leetcode.com/MrStnr21/" target="_blank" rel="noreferrer">
+    <img width="35%" src="https://leetcode.card.workers.dev/MrStnr21?theme=nord&font=baloo&extension=null" alt='leetCode'/>
+  </a>
+  </p>
 </div>
-   
+
 <div>
   <h3 align="left">Статистика:</h3>
    <div align="center" >
