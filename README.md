@@ -12,7 +12,7 @@
 
 🖥 Мои проекты здесь [👉 проекты 👈](https://github.com/MrStnr21?tab=repositories)
 
-📄 А мое резюме вот здесь [👉 резюме 👈](https://drive.google.com/file/d/111dJe3wmwkmQ3wlsu8GPKvrVEuZqD9zG/view?usp=sharing)
+📄 А мое резюме вот здесь [👉 резюме 👈](https://drive.google.com/file/d/1mmE_KZhaN2Or4KYZPdBZ2Wxj35WlvVQo/view?usp=sharing)
 
 <div>
   <h3 align="left">Как со мной связаться?</h3>
