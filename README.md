@@ -1,22 +1,10 @@
-<h1 align="center">Всем привет, меня зовут Ярослав 🙌</h1>
-<h3 align="center">Я Frontend разработчик из Москвы 🥷</h3>
-
-🎯 Мои цели: 
-- 🧙‍♂️ Стать профессиональным фронтенд разработчиком,
-- 🏋️‍♀️ Прокачивать свои скиллы,
-- 📖 Учиться у лучших,
-- 🛠 Изучать новые фреймворки,
-- 🚀 Участвовать в разработке настоящих боевых проектов.
-
-🎮 Интересный факт: У меня 22 платиновых ачивки в PSN 😁
-
-🖥 Мои проекты здесь [👉 проекты 👈](https://github.com/MrStnr21?tab=repositories)
-
-📄 А мое резюме вот здесь [👉 резюме 👈](https://drive.google.com/file/d/1mmE_KZhaN2Or4KYZPdBZ2Wxj35WlvVQo/view?usp=sharing)
+<h1 align="center">Hi there, I'm <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Yaroslav</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Frontend Developer 🥷</h3>
 
 <div>
-  <h3 align="left">Как со мной связаться?</h3>
-  <p align="left">
+  <h3 align="center" align="left">Как со мной связаться?</h3>
+  <p align="center">
   <a href="https://instagram.com/mrstnr21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yp21untd" height="48" width="48" /></a>
     <a href="https://t.me/MrStnr21" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349527/telegram.svg" alt="yp21untd" height="48" width="48" /></a>
     <a href="https://wa.clck.bar/79151474566" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349563/whatsapp.svg" alt="yp21untd" height="48" width="48" /></a>
@@ -25,8 +13,8 @@
 </div>
 
 <div>
-      <h3 align="left">Мой стек:</h3>
-      <p align="left">
+      <h3 align="center" align="left">Мой стек:</h3>
+      <p align="center">
         <a
           href="https://www.typescriptlang.org/"
           target="_blank"
@@ -57,28 +45,15 @@
         </a>
       </p>
     </div>
-    
-<div>
-  <p align="left">
-  <h3 align="left">CodeWars/LeetCode:</h3>
-  <a href="https://www.codewars.com/users/MrStnr21" target="_blank" rel="noreferrer">
-    <img width="36%" src="https://github.r2v.ch/codewars?user=MrStnr21&stroke=%23BB432C" alt='codewars'/>
-  </a>
-  <a href="https://leetcode.com/MrStnr21/" target="_blank" rel="noreferrer">
-    <img width="35%" src="https://leetcode.card.workers.dev/MrStnr21?theme=nord&font=baloo&extension=null" alt='leetCode'/>
-  </a>
-  </p>
-</div>
 
-
-<div>
-  <h3 align="left">Статистика:</h3>
+<div align="center">
+  <h3 align="center">Статистика:</h3>
    <div align="center" >
-     <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrStnr21&theme=cobalt" />
-     <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrStnr21&theme=cobalt" />
-     <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrStnr21&theme=cobalt"/>
-     <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrStnr21&theme=cobalt"/>
-     <img width="80px" src="https://komarev.com/ghpvc/?username=MrStnr21&color=grey&style=flat-square&label=Mississippi"/>
+     <img width="22%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrStnr21&theme=cobalt" />
+     <img width="22%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrStnr21&theme=cobalt" />
+     <img width="22%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrStnr21&theme=cobalt"/>
+     <img align="center" width="67%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrStnr21&theme=cobalt"/>
    </div>
+  <img align="center" width="80px" src="https://komarev.com/ghpvc/?username=MrStnr21&color=grey&style=flat-square&label=Mississippi"/>
 </div>
 
