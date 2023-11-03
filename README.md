@@ -1,5 +1,5 @@
 <h3 align="center">Hi there, I'm Yaroslav</h3>
-<h4 align="center">Frontend Developer in </h4>
+<h4 align="center">Frontend Developer</h4>
 
 <div align='center'>
   <img  width='640' src="https://github.com/MrStnr21/MrStnr21/assets/104725482/fee1fb40-df55-4968-9e99-ae02a0701fa6"/>
