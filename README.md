@@ -1,6 +1,6 @@
 ### Hi, I'm Yaroslav 👋
 
-Senior Frontend Engineer at Unison Technologies,<br>
+Senior Fullstack Engineer at Unison Technologies,<br>
 building **YuChat** - a corporate messenger with AI features.
 
 🎧 Mana source<br>
