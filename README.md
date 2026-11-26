@@ -1,7 +1,4 @@
-### Hi, I'm Yaroslav 👋
-
-Senior Fullstack Engineer at Unison Technologies,<br>
-building **YuChat** - a corporate messenger with AI features.
+### Hi there!
 
 🎧 Mana source<br>
 <a href="https://open.spotify.com/user/defaultUser21">
